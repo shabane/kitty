@@ -1,5 +1,7 @@
 # kitty !
 
+**i`m begging you please don't star this repo, because it doesn't deserve it**
+
 kitty is a program that can download a video from https://www.manototv.com
 
 but it's hard to use, because this program need something more todo.
